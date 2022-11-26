@@ -7,7 +7,7 @@ namespace PinCode
         static void Main(string[] args)
         {
 
-            RegexPattern.Pattern("B10121");
+            RegexPattern.Pattern("10121D");
         }
     }
 }
